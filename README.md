@@ -1,0 +1,1 @@
+This is a Haskell playground for implementing the ideas [described by Russ Cox](https://swtch.com/~rsc/regexp/regexp4.html) and used in the now-defunct Google Code Search to perform regular expression queries over a large data set.
